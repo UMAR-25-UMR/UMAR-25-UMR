@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="./assets/profile.jpg" width="150" style="border-radius:50%; border:3px solid #7dd3fc;" />
+<img src="./assets/profile.png" width="150" style="border-radius:50%; border:3px solid #7dd3fc;" />
 
 <br/><br/>
 
