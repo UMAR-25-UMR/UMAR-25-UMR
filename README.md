@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Web+Developer;Building+with+React%2C+Firebase+%26+Tailwind;Crafting+AI-Powered+Web+Experiences;Shipping+Live+Client+Projects" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<img src="./assets/profile.jpg" width="150" style="border-radius:50%; border:3px solid #7dd3fc;" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=UMAR-25-UMR&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/UMAR-25-UMR?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&logo=github&logoColor=0f172a&labelColor=0f172a" />
