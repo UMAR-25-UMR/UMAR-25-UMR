@@ -73,32 +73,6 @@ Live corporate site for a polymer supply company — responsive design, service 
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">👓 Eyeonic</h3>
-
-<p align="center">
-<img src="./assets/eyeonic.png" width="100%" style="border-radius:10px;" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UMAR-25-UMR&repo=Trimline-Group-LLC-website-by-UMAR&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&border_radius=10" />
-</p>
-
-E-commerce platform for an eyewear brand — product listings, clean showcases, responsive layouts, and a smooth shopping experience.
-
-| Layer | Tech |
-|---|---|
-| Frontend | HTML, CSS, JS, Bootstrap |
-| Deploy | Vercel / Netlify |
-| Forms | Formspree API |
-
-<p align="center">
-<a href="https://trimlineco.com/"><img src="https://img.shields.io/badge/LIVE-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0f172a"/></a>
-<a href="https://github.com/UMAR-25-UMR/Trimline-Group-LLC-website-by-UMAR"><img src="https://img.shields.io/badge/CODE-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
 <h3 align="center">🏋️ OPTIFORGE</h3>
 
 <p align="center">
@@ -120,6 +94,32 @@ AI-powered fitness & gym management platform — workout plans, progress trackin
 <p align="center">
 <a href="https://optiforge-jym.vercel.app/"><img src="https://img.shields.io/badge/LIVE-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0f172a"/></a>
 <a href="https://github.com/UMAR-25-UMR/jym-website"><img src="https://img.shields.io/badge/CODE-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc"/></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">👓 Eyeonic</h3>
+
+<p align="center">
+<img src="./assets/eyeonic.png" width="100%" style="border-radius:10px;" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UMAR-25-UMR&repo=Trimline-Group-LLC-website-by-UMAR&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&border_radius=10" />
+</p>
+
+E-commerce platform for an eyewear brand — product listings, clean showcases, responsive layouts, and a smooth shopping experience.
+
+| Layer | Tech |
+|---|---|
+| Frontend | HTML, CSS, JS, Bootstrap |
+| Deploy | Vercel / Netlify |
+| Forms | Formspree API |
+
+<p align="center">
+<a href="https://trimlineco.com/"><img src="https://img.shields.io/badge/LIVE-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0f172a"/></a>
+<a href="https://github.com/UMAR-25-UMR/Trimline-Group-LLC-website-by-UMAR"><img src="https://img.shields.io/badge/CODE-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc"/></a>
 </p>
 
 </td>
